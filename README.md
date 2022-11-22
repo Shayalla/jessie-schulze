@@ -20,9 +20,9 @@ I’m currently working at Klever: *https://klever.io*
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 ### ☕ Get In Touch
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jessie-schulze/)
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jessie_schulze)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:seira91@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessie-schulze/)](https://www.linkedin.com/in/jessie-schulze/)
+[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jessie-schulze/)](https://instagram.com/jessie_schulze)
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:seira91@gmail.com)](mailto:seira91@gmail.com)
 
 ![Profile views](https://gpvc.arturio.dev/jessie-schulze)  <img src="https://img.shields.io/github/followers/jessie-schulze?label=Follow" style=" float:left, margin-right:10px" />
 
