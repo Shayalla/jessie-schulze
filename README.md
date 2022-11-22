@@ -24,6 +24,6 @@ I’m currently working at Klever: *https://klever.io*
 [![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jessie_schulze)
 [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:seira91@gmail.com)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jessie-schulze.jessie-schulze)
+![Profile views](https://gpvc.arturio.dev/jessie-schulze)  <img src="https://img.shields.io/github/followers/jessie-schulze?label=Follow" style=" float:left, margin-right:10px" />
 
-⭐️ From [GoogTech](https://github.com/jessie-schulze)
+⭐️ From [jessie](https://github.com/jessie-schulze)
