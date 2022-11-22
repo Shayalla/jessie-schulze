@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 </p>
 
-### 👋 Hey Guys I'm Jessie Schulze
+### Hey Guys I'm Jessica Schulze <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 I’m currently working at Klever: *https://klever.io*
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
@@ -23,6 +23,15 @@ I’m currently working at Klever: *https://klever.io*
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+
+
+<a href="https://github.com/Neel2904">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayalla&layout=compact&theme=radical" />
+</a>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shayalla&&show_icons=true&theme=radical&line_height=27&v=5" alt="Shayalla's GitHub Stats" />
+
 
 ### ☕ Get In Touch
 [![Linkedin Badge](https://img.shields.io/badge/-jessieSchulze-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessie-schulze/)](https://www.linkedin.com/in/jessie-schulze/)
